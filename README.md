@@ -26,7 +26,8 @@ Abaixo, as telas principais do organizador:
 
 ### Aba Titular
 <div align="center">
-  <img width="900" alt="print_projeto_IR_titular" src="https://github.com/user-attachments/assets/b08db31b-0fcd-4770-8d5b-919019fd730b" />
+<img width="1085" height="796" alt="print_projeto_IR_titular" src="https://github.com/user-attachments/assets/b185a405-f755-4f26-a299-ec861c438848" />
+
 </div>
 
 ---
